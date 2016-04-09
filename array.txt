@@ -1,0 +1,16 @@
+count() and sizeof()
+each() often with list()
+foreach()
+reset()	//put array point to 0
+//reset($array1)
+
+array_push()	//append data to array
+//array_push($array1, 'data1', 'data2', 'data2')
+
+array_pop()
+array_unshift()	//insert data to first of array
+array_shift()	//delete and return the first of array
+array_merge()	//merge two or more arrays
+array_keys()	//return all keys of array
+array_values()	//reutrn all values of array
+shuffle()	//random an array
